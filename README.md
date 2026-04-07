@@ -31,7 +31,14 @@ AAA Protocols: Enforced local authentication for console and VTY lines to preven
 
 Voice over IP (VoIP)
 Telephony Service: Configured Cisco Unified Communications Manager Express (CME) features, including Ephone directory numbers and auto-registration for IP telephony.
+## Network Topology
+![Network Diagram](./images/topology.png)
 
+## Connectivity Validation
+To verify the configuration, I performed end-to-end ICMP echo requests (pings) from the internal VLANs to the ISP gateway.
+
+**Successful Ping to ISP:**
+![Ping Test](./images/ping_test.png)
 
 Hardware/OS: Cisco IOS (Routers & Switches)
 
