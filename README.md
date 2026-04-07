@@ -38,3 +38,8 @@ Hardware/OS: Cisco IOS (Routers & Switches)
 Protocols: 802.1Q, STP, SSH, DHCP, NAT, QoS, ACL
 
 Tools: Cisco Packet Tracer / Lab Environment
+
+## Network Topology
+![Network Diagram](Screenshot 2026-04-06 220631.png)
+
+
