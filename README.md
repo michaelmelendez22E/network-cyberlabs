@@ -28,11 +28,7 @@ AAA Protocols: Enforced local authentication for console and VTY lines to preven
 Voice over IP (VoIP)
 Telephony Service: Configured Cisco Unified Communications Manager Express (CME) features, including Ephone directory numbers and auto-registration for IP telephony.
 
-Network Topology
-(Recommendation: Upload a screenshot of your Cisco Packet Tracer or GNS3 diagram to the repository and link it here)
-![Network Diagram](./images/topology.png)
 
-Technologies Used
 Hardware/OS: Cisco IOS (Routers & Switches)
 
 Protocols: 802.1Q, STP, SSH, DHCP, NAT, QoS, ACL
