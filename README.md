@@ -39,6 +39,8 @@ Protocols: 802.1Q, STP, SSH, DHCP, NAT, QoS, ACL
 
 Tools: Cisco Packet Tracer / Lab Environment
 
+<img width="1920" height="1200" alt="Screenshot 2026-04-06 220631" src="https://github.com/user-attachments/assets/0752e93b-7339-4474-a66c-793cd5bf17cd" />
+
 
 
 
